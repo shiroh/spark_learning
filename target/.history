@@ -1,0 +1,10 @@
+reload
+eclipse with-source=true
+assembly
+cd
+exit
+assembly
+dependency-tree
+dependencyCacheDirectory
+dependencyPositions
+exit
